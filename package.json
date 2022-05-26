@@ -13,11 +13,11 @@
   },
   "license": "ISC",
   "devDependencies": {
-    "electron": "^9.0.5",
+    "electron": "^9.4.4",
     "electron-builder": "22.9.1"
   },
   "dependencies": {
-    "electron-navigation": "^1.5.8",
+    "electron-navigation": "^6.6.6",
     "electron-updater": "4.3.5"
   },
   "build": {
