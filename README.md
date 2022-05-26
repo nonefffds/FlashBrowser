@@ -14,4 +14,6 @@ I only have updated a newer and 64-bit-only version of flash.dll into this repo,
 
 ## How to use:
 
-N/A, add later.
+Download the pre-built executables from [here](https://github.com/nonefffds/FlashBrowser/releases/download/v1.0.0/Flash-Browser-1.0.1.zip), unzip it, then click on the Flash Browser.exe
+
+I don't have time to pack this into an installer, as long as it works.
