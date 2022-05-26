@@ -16,7 +16,7 @@ let pluginName;
 switch (process.platform) {
 	case 'win32':
 		if (process.arch === "x32" || process.arch === "ia32") {
-			pluginName = '32bit.dll';
+			app.exit();
 		} else {
 			pluginName = '64bit.dll';
 		}
